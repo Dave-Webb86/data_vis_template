@@ -1,6 +1,6 @@
 # data_vis_templates
 
-Toolkit is put in place to provide ready to use python templates for common data visualisation charts.
+Toolkit is put in place to provide ready to use python templates for common data visualisation charts.  Templates are provided as examples and can be readily modified as required for purpose.
 
 All charts are designed using the best practice principles explored by Cole Knafflic in her book [Storytelling with Data](https://www.storytellingwithdata.com/).
 
